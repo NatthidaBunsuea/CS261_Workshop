@@ -83,5 +83,7 @@ public class Student {
     public void setFaculty(String faculty) {
         this.faculty = faculty;
     }
+
+
 }
 
